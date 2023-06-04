@@ -1,0 +1,33 @@
+.gallery-box{
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.box11{
+    width: 28%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.box2{
+    width: 20%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.box3{
+    width: 35%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
